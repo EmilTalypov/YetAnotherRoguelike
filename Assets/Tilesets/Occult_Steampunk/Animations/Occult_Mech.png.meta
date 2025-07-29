@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: f8cf43b36826ff6459ce026c858a9a0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4789738943651678772
+    second: Occult_Mech_0
+  - first:
+      213: 9017202353465460332
+    second: Occult_Mech_1
+  - first:
+      213: 5568733911057123829
+    second: Occult_Mech_2
+  - first:
+      213: -4024480214560464363
+    second: Occult_Mech_3
+  - first:
+      213: 7332944320330469360
+    second: Occult_Mech_4
+  - first:
+      213: -1689813259296536409
+    second: Occult_Mech_5
+  - first:
+      213: -7436262582128970696
+    second: Occult_Mech_6
+  - first:
+      213: -2930445235209382214
+    second: Occult_Mech_7
+  - first:
+      213: -2614433040543680414
+    second: Occult_Mech_8
+  - first:
+      213: 113752478538934854
+    second: Occult_Mech_9
+  - first:
+      213: -2506944354165368200
+    second: Occult_Mech_10
+  - first:
+      213: 2881184912651799003
+    second: Occult_Mech_11
+  - first:
+      213: -8667674024525817168
+    second: Occult_Mech_12
+  - first:
+      213: -447463037553250014
+    second: Occult_Mech_13
+  - first:
+      213: 5446691671218818272
+    second: Occult_Mech_14
+  - first:
+      213: -2870038068699844456
+    second: Occult_Mech_15
+  - first:
+      213: 2809395141724643245
+    second: Occult_Mech_16
+  - first:
+      213: 4300098278420241481
+    second: Occult_Mech_17
+  - first:
+      213: -8747056405936667210
+    second: Occult_Mech_18
+  - first:
+      213: -2684596380616132317
+    second: Occult_Mech_19
+  - first:
+      213: -634238445510973788
+    second: Occult_Mech_20
+  - first:
+      213: 405495714306753680
+    second: Occult_Mech_21
+  - first:
+      213: 5444784560186692441
+    second: Occult_Mech_22
+  - first:
+      213: -3878969677770773434
+    second: Occult_Mech_23
+  - first:
+      213: -6556750453207171841
+    second: Occult_Mech_24
+  - first:
+      213: -5998595164125507675
+    second: Occult_Mech_25
+  - first:
+      213: -4086125534419441475
+    second: Occult_Mech_26
+  - first:
+      213: -714973099513020388
+    second: Occult_Mech_27
+  - first:
+      213: -4647810387253423979
+    second: Occult_Mech_28
+  - first:
+      213: 1743271398745682696
+    second: Occult_Mech_29
+  - first:
+      213: 1983200421500609912
+    second: Occult_Mech_30
+  - first:
+      213: -6416074589476994488
+    second: Occult_Mech_31
+  - first:
+      213: 3503083601147402161
+    second: Occult_Mech_32
+  - first:
+      213: 6099514852565413772
+    second: Occult_Mech_33
+  - first:
+      213: -6431676392317643705
+    second: Occult_Mech_34
+  - first:
+      213: 9101669546574901019
+    second: Occult_Mech_35
+  - first:
+      213: 3154533897358055205
+    second: Occult_Mech_36
+  - first:
+      213: 5890683718404308828
+    second: Occult_Mech_37
+  - first:
+      213: 7047806893904432921
+    second: Occult_Mech_38
+  - first:
+      213: -7100674366800148078
+    second: Occult_Mech_39
+  - first:
+      213: -2094768608618380942
+    second: Occult_Mech_40
+  - first:
+      213: -3069722491368917925
+    second: Occult_Mech_41
+  - first:
+      213: -4339492808947357076
+    second: Occult_Mech_42
+  - first:
+      213: -3316446569926524152
+    second: Occult_Mech_43
+  - first:
+      213: -507573247285460957
+    second: Occult_Mech_44
+  - first:
+      213: -7268386673090026203
+    second: Occult_Mech_45
+  - first:
+      213: -925823924897719664
+    second: Occult_Mech_46
+  - first:
+      213: -979251313867475664
+    second: Occult_Mech_47
+  - first:
+      213: -6081828010167900149
+    second: Occult_Mech_48
+  - first:
+      213: 1220364550192407303
+    second: Occult_Mech_49
+  - first:
+      213: -4238037985138561773
+    second: Occult_Mech_50
+  - first:
+      213: -2083514757092894308
+    second: Occult_Mech_51
+  - first:
+      213: 1437348911974563358
+    second: Occult_Mech_52
+  - first:
+      213: -406685181673777033
+    second: Occult_Mech_53
+  - first:
+      213: 6073902612096966497
+    second: Occult_Mech_54
+  - first:
+      213: 3704781724120400450
+    second: Occult_Mech_55
+  - first:
+      213: -4695645414992819669
+    second: Occult_Mech_56
+  - first:
+      213: -5121883452250822738
+    second: Occult_Mech_57
+  - first:
+      213: 8021261610346860951
+    second: Occult_Mech_58
+  - first:
+      213: -2116518904603900065
+    second: Occult_Mech_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occult_Mech_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a863f2132987240800000000000000
+      internalID: 4789738943651678772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 448
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66002ae3c9832d70800000000000000
+      internalID: 9017202353465460332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 447
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94b39dcfd184d40800000000000000
+      internalID: 5568733911057123829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 447
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5122985419c2628c0800000000000000
+      internalID: -4024480214560464363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 448
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff040bf10ad3c560800000000000000
+      internalID: 7332944320330469360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 447
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a882ee2bc39c88e0800000000000000
+      internalID: -1689813259296536409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 447
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347caf94961dc890800000000000000
+      internalID: -7436262582128970696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 448
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6db91b597f457d0800000000000000
+      internalID: -2930445235209382214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 447
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2687951600ba7bbd0800000000000000
+      internalID: -2614433040543680414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 447
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a22abc641249100800000000000000
+      internalID: 113752478538934854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 448
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5d4a646b853dd0800000000000000
+      internalID: -2506944354165368200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 447
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd943d2b9660cf720800000000000000
+      internalID: 2881184912651799003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 384
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba1243e56c36b780800000000000000
+      internalID: -8667674024525817168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 384
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2217584fcba4ac9f0800000000000000
+      internalID: -447463037553250014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec83189739869b40800000000000000
+      internalID: 5446691671218818272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 384
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903c4725939b28d0800000000000000
+      internalID: -2870038068699844456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 384
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf94302ff9fcf620800000000000000
+      internalID: 2809395141724643245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 384
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cd180f9940dab30800000000000000
+      internalID: 4300098278420241481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b507ddea863c9680800000000000000
+      internalID: -8747056405936667210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 384
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297310c0d56ebad0800000000000000
+      internalID: -2684596380616132317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 384
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a62c608e7bb237f0800000000000000
+      internalID: -634238445510973788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 384
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0948239243c90a500800000000000000
+      internalID: 405495714306753680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 384
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539574b5b2cf8b40800000000000000
+      internalID: 5444784560186692441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 384
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c26f531a12b2ac0800000000000000
+      internalID: -3878969677770773434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 320
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc74b3b33eb105a0800000000000000
+      internalID: -6556750453207171841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 320
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af4ceaea75b0cca0800000000000000
+      internalID: -5998595164125507675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 320
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8a645c97a2b47c0800000000000000
+      internalID: -4086125534419441475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 320
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10019b01c7e316f0800000000000000
+      internalID: -714973099513020388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 320
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5909364f319af7fb0800000000000000
+      internalID: -4647810387253423979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 320
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b555d918513810800000000000000
+      internalID: 1743271398745682696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 320
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e2f1a64eb58b10800000000000000
+      internalID: 1983200421500609912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 320
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84240d9972685f6a0800000000000000
+      internalID: -6416074589476994488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 320
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b713e0a9f37d9030800000000000000
+      internalID: 3503083601147402161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 320
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f61691174d5a450800000000000000
+      internalID: 6099514852565413772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 320
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74414adc5681eb6a0800000000000000
+      internalID: -6431676392317643705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_35
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 320
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f669ada30af4e70800000000000000
+      internalID: 9101669546574901019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52794ffbdd727cb20800000000000000
+      internalID: 3154533897358055205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 256
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7aa7b1a9efb150800000000000000
+      internalID: 5890683718404308828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 255
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f09b47707dec160800000000000000
+      internalID: 7047806893904432921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c72dc846557d90800000000000000
+      internalID: -7100674366800148078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27189ac8c03ede2e0800000000000000
+      internalID: -2094768608618380942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 255
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54bdee78a72665d0800000000000000
+      internalID: -3069722491368917925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 255
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aa459284607c3c0800000000000000
+      internalID: -4339492808947357076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80387fa7a6d99f1d0800000000000000
+      internalID: -3316446569926524152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 255
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3200f0222dcb4f8f0800000000000000
+      internalID: -507573247285460957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 255
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525294494d0812b90800000000000000
+      internalID: -7268386673090026203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 256
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad9e7ab00d623f0800000000000000
+      internalID: -925823924897719664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 255
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035381b4e100962f0800000000000000
+      internalID: -979251313867475664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ebecc5a1099ba0800000000000000
+      internalID: -6081828010167900149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 192
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703a2b6b71b9fe010800000000000000
+      internalID: 1220364550192407303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d243718e67f25c0800000000000000
+      internalID: -4238037985138561773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99913b0e5ed513e0800000000000000
+      internalID: -2083514757092894308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 128
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb984583d72f310800000000000000
+      internalID: 1437348911974563358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7785be26bf92b5af0800000000000000
+      internalID: -406685181673777033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f5b5aae36da4450800000000000000
+      internalID: 6073902612096966497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 64
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2424e8c69570a6330800000000000000
+      internalID: 3704781724120400450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a4928af57b5deb0800000000000000
+      internalID: -4695645414992819669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea763a7132a6be8b0800000000000000
+      internalID: -5121883452250822738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d337afee315f60800000000000000
+      internalID: 8021261610346860951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Mech_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f578fa2254d90a2e0800000000000000
+      internalID: -2116518904603900065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

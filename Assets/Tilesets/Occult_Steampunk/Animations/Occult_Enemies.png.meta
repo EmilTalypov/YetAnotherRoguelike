@@ -1,0 +1,2530 @@
+fileFormatVersion: 2
+guid: 8a5b95047e7d96947ba484b53be55a92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3408002807959611480
+    second: Occult_Enemies_0
+  - first:
+      213: 5144523572929367347
+    second: Occult_Enemies_1
+  - first:
+      213: 668258496742279262
+    second: Occult_Enemies_2
+  - first:
+      213: 182632815524402002
+    second: Occult_Enemies_3
+  - first:
+      213: 1028458626634603640
+    second: Occult_Enemies_4
+  - first:
+      213: -602327696665400640
+    second: Occult_Enemies_5
+  - first:
+      213: 5456099687966839448
+    second: Occult_Enemies_6
+  - first:
+      213: 6567338323941011615
+    second: Occult_Enemies_7
+  - first:
+      213: 8287159386242701365
+    second: Occult_Enemies_8
+  - first:
+      213: 8246534020394715147
+    second: Occult_Enemies_9
+  - first:
+      213: 3655310422065455106
+    second: Occult_Enemies_10
+  - first:
+      213: -8078496424880664476
+    second: Occult_Enemies_11
+  - first:
+      213: -8896852683361508837
+    second: Occult_Enemies_12
+  - first:
+      213: -7536764541608650158
+    second: Occult_Enemies_13
+  - first:
+      213: 2827820720249868680
+    second: Occult_Enemies_14
+  - first:
+      213: 3116937279050125294
+    second: Occult_Enemies_15
+  - first:
+      213: 4668705613727973894
+    second: Occult_Enemies_16
+  - first:
+      213: -2621667054169880368
+    second: Occult_Enemies_17
+  - first:
+      213: -2927957283850291711
+    second: Occult_Enemies_18
+  - first:
+      213: -8061436432144283820
+    second: Occult_Enemies_19
+  - first:
+      213: -3459024311190336514
+    second: Occult_Enemies_20
+  - first:
+      213: -8870886942429452411
+    second: Occult_Enemies_21
+  - first:
+      213: 6889594619773983102
+    second: Occult_Enemies_22
+  - first:
+      213: -6672260687344286941
+    second: Occult_Enemies_23
+  - first:
+      213: 1793989096355784258
+    second: Occult_Enemies_24
+  - first:
+      213: 8282947322974229967
+    second: Occult_Enemies_25
+  - first:
+      213: -4710858847148730297
+    second: Occult_Enemies_26
+  - first:
+      213: 2162756191925079062
+    second: Occult_Enemies_27
+  - first:
+      213: 2459338098590623084
+    second: Occult_Enemies_28
+  - first:
+      213: 1224840563597138058
+    second: Occult_Enemies_29
+  - first:
+      213: 1382839101319252750
+    second: Occult_Enemies_30
+  - first:
+      213: -5063738607829949934
+    second: Occult_Enemies_31
+  - first:
+      213: 3540410759402908185
+    second: Occult_Enemies_32
+  - first:
+      213: -3421676943486474484
+    second: Occult_Enemies_33
+  - first:
+      213: 7117661431413979334
+    second: Occult_Enemies_34
+  - first:
+      213: -1212796359804627956
+    second: Occult_Enemies_35
+  - first:
+      213: -4685605929909029975
+    second: Occult_Enemies_36
+  - first:
+      213: -187325161609862402
+    second: Occult_Enemies_37
+  - first:
+      213: -4825850166470622699
+    second: Occult_Enemies_38
+  - first:
+      213: -1380163337906184991
+    second: Occult_Enemies_39
+  - first:
+      213: 3958465118061894470
+    second: Occult_Enemies_40
+  - first:
+      213: 3999148600197447604
+    second: Occult_Enemies_41
+  - first:
+      213: 4316356620516270280
+    second: Occult_Enemies_42
+  - first:
+      213: 361132968490341507
+    second: Occult_Enemies_43
+  - first:
+      213: 5357705420007096954
+    second: Occult_Enemies_44
+  - first:
+      213: -3436361034446904489
+    second: Occult_Enemies_45
+  - first:
+      213: 671522212587528552
+    second: Occult_Enemies_46
+  - first:
+      213: 3464895504316871201
+    second: Occult_Enemies_47
+  - first:
+      213: -5798291229453548832
+    second: Occult_Enemies_48
+  - first:
+      213: -1024760008914202384
+    second: Occult_Enemies_49
+  - first:
+      213: -8761717740059419309
+    second: Occult_Enemies_50
+  - first:
+      213: 1062234938278890542
+    second: Occult_Enemies_51
+  - first:
+      213: -3477092303265165385
+    second: Occult_Enemies_52
+  - first:
+      213: -3925678053733698054
+    second: Occult_Enemies_53
+  - first:
+      213: -3531592147811159905
+    second: Occult_Enemies_54
+  - first:
+      213: -1205801161448417317
+    second: Occult_Enemies_55
+  - first:
+      213: -5176774416201930746
+    second: Occult_Enemies_56
+  - first:
+      213: 4607314823139195449
+    second: Occult_Enemies_57
+  - first:
+      213: 3988152366067882831
+    second: Occult_Enemies_58
+  - first:
+      213: 1406584895224482677
+    second: Occult_Enemies_59
+  - first:
+      213: -4677338801648378144
+    second: Occult_Enemies_60
+  - first:
+      213: 7577401207589636909
+    second: Occult_Enemies_61
+  - first:
+      213: -1354259926073779691
+    second: Occult_Enemies_62
+  - first:
+      213: -8322759047128124024
+    second: Occult_Enemies_63
+  - first:
+      213: -3402225479463564424
+    second: Occult_Enemies_64
+  - first:
+      213: -7891753560820144938
+    second: Occult_Enemies_65
+  - first:
+      213: -2449996494813507046
+    second: Occult_Enemies_66
+  - first:
+      213: 1357679229647644271
+    second: Occult_Enemies_67
+  - first:
+      213: 514880420378336716
+    second: Occult_Enemies_68
+  - first:
+      213: 5188365563983116316
+    second: Occult_Enemies_69
+  - first:
+      213: -6738520253411756559
+    second: Occult_Enemies_70
+  - first:
+      213: 4815297848990396956
+    second: Occult_Enemies_71
+  - first:
+      213: -3562511305726443776
+    second: Occult_Enemies_72
+  - first:
+      213: -7071132394156221720
+    second: Occult_Enemies_73
+  - first:
+      213: -5819926406389108867
+    second: Occult_Enemies_74
+  - first:
+      213: 4744981710076126728
+    second: Occult_Enemies_75
+  - first:
+      213: -178287889655913491
+    second: Occult_Enemies_76
+  - first:
+      213: 7761898177619459732
+    second: Occult_Enemies_77
+  - first:
+      213: 283213004163396875
+    second: Occult_Enemies_78
+  - first:
+      213: 6169348448616927378
+    second: Occult_Enemies_79
+  - first:
+      213: 1558658846523607688
+    second: Occult_Enemies_80
+  - first:
+      213: -3032845875777109395
+    second: Occult_Enemies_81
+  - first:
+      213: -7143773092906041633
+    second: Occult_Enemies_82
+  - first:
+      213: -677748637654171803
+    second: Occult_Enemies_83
+  - first:
+      213: -1564460853586191796
+    second: Occult_Enemies_84
+  - first:
+      213: -6987793139599623829
+    second: Occult_Enemies_85
+  - first:
+      213: 1282356251680244638
+    second: Occult_Enemies_86
+  - first:
+      213: -8202649267243821539
+    second: Occult_Enemies_87
+  - first:
+      213: -2931937208016237815
+    second: Occult_Enemies_88
+  - first:
+      213: -2418709041238574845
+    second: Occult_Enemies_89
+  - first:
+      213: -5986397997553593595
+    second: Occult_Enemies_90
+  - first:
+      213: 2621285343156078326
+    second: Occult_Enemies_91
+  - first:
+      213: 6744843926668728174
+    second: Occult_Enemies_92
+  - first:
+      213: 2035178066319855990
+    second: Occult_Enemies_93
+  - first:
+      213: -422337449238745000
+    second: Occult_Enemies_94
+  - first:
+      213: -1094433179782261269
+    second: Occult_Enemies_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occult_Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a79806a08754b0d0800000000000000
+      internalID: -3408002807959611480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0417cee4056740800000000000000
+      internalID: 5144523572929367347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c57cef81264900800000000000000
+      internalID: 668258496742279262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 223
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25359adf397d88200800000000000000
+      internalID: 182632815524402002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cddb20ca1d54e00800000000000000
+      internalID: 1028458626634603640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 223
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca21e1b62a14a7f0800000000000000
+      internalID: -602327696665400640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 223
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892126032c5f7bb40800000000000000
+      internalID: 5456099687966839448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 224
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90305e096fd32b50800000000000000
+      internalID: 6567338323941011615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 223
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5385a06fd87e10370800000000000000
+      internalID: 8287159386242701365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 223
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b080dc1eff2917270800000000000000
+      internalID: 8246534020394715147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 224
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200aef256754ab230800000000000000
+      internalID: 3655310422065455106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 223
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46099b3ad4a63ef80800000000000000
+      internalID: -8078496424880664476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12a14d3f97088480800000000000000
+      internalID: -8896852683361508837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a18a5b498086790800000000000000
+      internalID: -7536764541608650158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819bfe66ff6e3720800000000000000
+      internalID: 2827820720249868680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef84f8e0f5914b20800000000000000
+      internalID: 3116937279050125294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c02315039ac040800000000000000
+      internalID: 4668705613727973894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d80cd454b7fd9bd0800000000000000
+      internalID: -2621667054169880368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 192
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106f5920d5ecd57d0800000000000000
+      internalID: -2927957283850291711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 192
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c5aab646002090800000000000000
+      internalID: -8061436432144283820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4f0637b31fffc0800000000000000
+      internalID: -3459024311190336514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 192
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58767d9635744e480800000000000000
+      internalID: -8870886942429452411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 192
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791216ddc1cc9f50800000000000000
+      internalID: 6889594619773983102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3234a0a814e5763a0800000000000000
+      internalID: -6672260687344286941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e533049785e810800000000000000
+      internalID: 1793989096355784258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 160
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d62f84b0f2f270800000000000000
+      internalID: 8282947322974229967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74891b476daaf9eb0800000000000000
+      internalID: -4710858847148730297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c887b3c47a30e10800000000000000
+      internalID: 2162756191925079062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65241578f2512220800000000000000
+      internalID: 2459338098590623084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8852bbc0028ff010800000000000000
+      internalID: 1224840563597138058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 160
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b87a706d4d03310800000000000000
+      internalID: 1382839101319252750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 160
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126dd4a09cf9b9b0800000000000000
+      internalID: -5063738607829949934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a6e29e3d0122130800000000000000
+      internalID: 3540410759402908185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 160
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07285fd2f2c380d0800000000000000
+      internalID: -3421676943486474484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 160
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8bde26c5307c260800000000000000
+      internalID: 7117661431413979334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 160
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0455fce2284b2fe0800000000000000
+      internalID: -1212796359804627956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3fe4e6b3269feb0800000000000000
+      internalID: -4685605929909029975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 128
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef260cc02cc766df0800000000000000
+      internalID: -187325161609862402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512424097d2270db0800000000000000
+      internalID: -4825850166470622699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 127
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec9510b1cca8dce0800000000000000
+      internalID: -1380163337906184991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9ad15d0b4fe630800000000000000
+      internalID: 3958465118061894470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 127
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff4c6a674df7730800000000000000
+      internalID: 3999148600197447604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c027c13a77c6eb30800000000000000
+      internalID: 4316356620516270280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3849c8f7580030500800000000000000
+      internalID: 361132968490341507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7245b271b46a5a40800000000000000
+      internalID: 5357705420007096954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 127
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536cc588d79f40d0800000000000000
+      internalID: -3436361034446904489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 128
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861601cf4e9b15900800000000000000
+      internalID: 671522212587528552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122b7a67a18c51030800000000000000
+      internalID: 3464895504316871201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e28824f8d4588fa0800000000000000
+      internalID: -5798291229453548832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f094a8833257c1f0800000000000000
+      internalID: -1024760008914202384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d15811320286680800000000000000
+      internalID: -8761717740059419309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4f146c01ddbe00800000000000000
+      internalID: 1062234938278890542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 96
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf82acf8f2eebfc0800000000000000
+      internalID: -3477092303265165385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f7a8fb903589c0800000000000000
+      internalID: -3925678053733698054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90382a17a34dfec0800000000000000
+      internalID: -3531592147811159905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 96
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd71d167b32244fe0800000000000000
+      internalID: -1205801161448417317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60824ff98176828b0800000000000000
+      internalID: -5176774416201930746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7a99cb6870ff30800000000000000
+      internalID: 4607314823139195449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b1c916273c85730800000000000000
+      internalID: 3988152366067882831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b09428281358310800000000000000
+      internalID: 1406584895224482677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eed8993421c61fb0800000000000000
+      internalID: -4677338801648378144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 64
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b0ff26046582960800000000000000
+      internalID: 7577401207589636909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 64
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a53dcb5c3b43de0800000000000000
+      internalID: -1354259926073779691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88572c41ebe9f7c80800000000000000
+      internalID: -8322759047128124024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8ac2c3fdd8c0d0800000000000000
+      internalID: -3402225479463564424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 64
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d42460e2fbda7290800000000000000
+      internalID: -7891753560820144938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1250b92b2ddffdd0800000000000000
+      internalID: -2449996494813507046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e21ae01277d210800000000000000
+      internalID: 1357679229647644271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd547ea309352700800000000000000
+      internalID: 514880420378336716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c183516cdf6c00840800000000000000
+      internalID: 5188365563983116316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 64
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5fd9f1887fb72a0800000000000000
+      internalID: -6738520253411756559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1276c091ef53d240800000000000000
+      internalID: 4815297848990396956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fbcd9a7da6f8ec0800000000000000
+      internalID: -3562511305726443776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 32
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9f8e4d8a4edd90800000000000000
+      internalID: -7071132394156221720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe248c4c77b3fa0800000000000000
+      internalID: -5819926406389108867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80620dea9bf89d140800000000000000
+      internalID: 4744981710076126728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de32e45eb18968df0800000000000000
+      internalID: -178287889655913491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 32
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e72cba44dc7bb60800000000000000
+      internalID: 7761898177619459732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 32
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b053eec0abc2ee300800000000000000
+      internalID: 283213004163396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2905b673abded9550800000000000000
+      internalID: 6169348448616927378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a4f0976f771a510800000000000000
+      internalID: 1558658846523607688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 32
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d620cc3aeba29e5d0800000000000000
+      internalID: -3032845875777109395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 32
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde7759a8383cdc90800000000000000
+      internalID: -7143773092906041633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 32
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f3e9574372896f0800000000000000
+      internalID: -677748637654171803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a9dfc742be94ae0800000000000000
+      internalID: -1564460853586191796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b046992f560f90800000000000000
+      internalID: -6987793139599623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9307e87738dbc110800000000000000
+      internalID: 1282356251680244638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1650d073f55a2e80800000000000000
+      internalID: -8202649267243821539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b0174b4aaaf47d0800000000000000
+      internalID: -2931937208016237815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309f2fd11f40f6ed0800000000000000
+      internalID: -2418709041238574845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50355bf0dba0ceca0800000000000000
+      internalID: -5986397997553593595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f681c5a12da06420800000000000000
+      internalID: 2621285343156078326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e675a8ac0df7a9d50800000000000000
+      internalID: 6744843926668728174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67159a12ba76e3c10800000000000000
+      internalID: 2035178066319855990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b7cad35e832af0800000000000000
+      internalID: -422337449238745000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be55da052dacfc0f0800000000000000
+      internalID: -1094433179782261269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
