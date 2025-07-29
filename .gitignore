@@ -1,0 +1,9 @@
+Library
+Temp
+obj
+Logs
+UserSettings
+.vs
+*.csproj
+*.sln
+.plastic
